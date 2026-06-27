@@ -33,88 +33,88 @@
 ### 🎨 Design
 | 폴더 | 직무 |
 |---|---|
-| `Design/UI-UX-Designer` | UI/UX Designer |
-| `Design/Product-Designer` | Product Designer |
-| `Design/Web-Designer` | Web Designer |
-| `Design/Motion-Designer` | Motion Designer |
+| `Design/UI-UX-Designer` | [UI/UX Designer](Design/UI-UX-Designer) |
+| `Design/Product-Designer` | [Product Designer](Design/Product-Designer) |
+| `Design/Web-Designer` | [Web Designer](Design/Web-Designer) |
+| `Design/Motion-Designer` | [Motion Designer](Design/Motion-Designer) |
 
 ### 💻 Frontend
 | 폴더 | 직무 |
 |---|---|
-| `Frontend/Web-Frontend-Developer` | Web Frontend Developer |
-| `Frontend/iOS-Developer` | iOS Developer |
-| `Frontend/Android-Developer` | Android Developer |
-| `Frontend/Cross-Platform-Mobile-Developer` | Cross-Platform Mobile Developer |
+| `Frontend/Web-Frontend-Developer` | [Web Frontend Developer](Frontend/Web-Frontend-Developer) |
+| `Frontend/iOS-Developer` | [iOS Developer](Frontend/iOS-Developer) |
+| `Frontend/Android-Developer` | [Android Developer](Frontend/Android-Developer) |
+| `Frontend/Cross-Platform-Mobile-Developer` | [Cross-Platform Mobile Developer](Frontend/Cross-Platform-Mobile-Developer) |
 
 ### ⚙️ Backend
 | 폴더 | 직무 |
 |---|---|
-| `Backend/API-Developer` | API Developer |
-| `Backend/Server-Side-Developer` | Server-Side Developer |
-| `Backend/Embedded-Systems-Developer` | Embedded Systems Developer |
+| `Backend/API-Developer` | [API Developer](Backend/API-Developer) |
+| `Backend/Server-Side-Developer` | [Server-Side Developer](Backend/Server-Side-Developer) |
+| `Backend/Embedded-Systems-Developer` | [Embedded Systems Developer](Backend/Embedded-Systems-Developer) |
 
 ### 🔄 Fullstack
 | 폴더 | 직무 |
 |---|---|
-| `Fullstack/Fullstack-Developer` | Fullstack Developer |
+| `Fullstack/Fullstack-Developer` | [Fullstack Developer](Fullstack/Fullstack-Developer) |
 
 ### 🚀 Infra / DevOps
 | 폴더 | 직무 |
 |---|---|
-| `Infra-DevOps/DevOps-Engineer` | DevOps Engineer |
-| `Infra-DevOps/SRE` | Site Reliability Engineer |
-| `Infra-DevOps/Cloud-Engineer` | Cloud Engineer |
-| `Infra-DevOps/Platform-Engineer` | Platform Engineer |
+| `Infra-DevOps/DevOps-Engineer` | [DevOps Engineer](Infra-DevOps/DevOps-Engineer) |
+| `Infra-DevOps/SRE` | [Site Reliability Engineer](Infra-DevOps/SRE) |
+| `Infra-DevOps/Cloud-Engineer` | [Cloud Engineer](Infra-DevOps/Cloud-Engineer) |
+| `Infra-DevOps/Platform-Engineer` | [Platform Engineer](Infra-DevOps/Platform-Engineer) |
 
 ### 🌐 Network
 | 폴더 | 직무 |
 |---|---|
-| `Network/Network-Engineer` | Network Engineer |
-| `Network/Network-Security-Engineer` | Network Security Engineer |
+| `Network/Network-Engineer` | [Network Engineer](Network/Network-Engineer) |
+| `Network/Network-Security-Engineer` | [Network Security Engineer](Network/Network-Security-Engineer) |
 
 ### 🗄️ Database
 | 폴더 | 직무 |
 |---|---|
-| `Database/DBA` | Database Administrator |
-| `Database/Database-Developer` | Database Developer |
+| `Database/DBA` | [Database Administrator](Database/DBA) |
+| `Database/Database-Developer` | [Database Developer](Database/Database-Developer) |
 
 ### 🤖 Data / AI
 | 폴더 | 직무 |
 |---|---|
-| `Data-AI/Data-Analyst` | Data Analyst |
-| `Data-AI/Data-Engineer` | Data Engineer |
-| `Data-AI/Data-Scientist` | Data Scientist |
-| `Data-AI/ML-Engineer` | ML Engineer |
-| `Data-AI/AI-Engineer` | AI Engineer |
-| `Data-AI/BI-Developer` | BI Developer |
+| `Data-AI/Data-Analyst` | [Data Analyst](Data-AI/Data-Analyst) |
+| `Data-AI/Data-Engineer` | [Data Engineer](Data-AI/Data-Engineer) |
+| `Data-AI/Data-Scientist` | [Data Scientist](Data-AI/Data-Scientist) |
+| `Data-AI/ML-Engineer` | [ML Engineer](Data-AI/ML-Engineer) |
+| `Data-AI/AI-Engineer` | [AI Engineer](Data-AI/AI-Engineer) |
+| `Data-AI/BI-Developer` | [BI Developer](Data-AI/BI-Developer) |
 
 ### 🔒 Security
 | 폴더 | 직무 |
 |---|---|
-| `Security/Security-Engineer` | Security Engineer |
-| `Security/Pentester` | Penetration Tester |
-| `Security/Security-Analyst` | Security Analyst |
+| `Security/Security-Engineer` | [Security Engineer](Security/Security-Engineer) |
+| `Security/Pentester` | [Penetration Tester](Security/Pentester) |
+| `Security/Security-Analyst` | [Security Analyst](Security/Security-Analyst) |
 
 ### 🧪 QA / Test
 | 폴더 | 직무 |
 |---|---|
-| `QA-Test/QA-Engineer` | QA Engineer |
-| `QA-Test/Test-Automation-Engineer` | Test Automation Engineer |
+| `QA-Test/QA-Engineer` | [QA Engineer](QA-Test/QA-Engineer) |
+| `QA-Test/Test-Automation-Engineer` | [Test Automation Engineer](QA-Test/Test-Automation-Engineer) |
 
 ### 🏛️ Architecture
 | 폴더 | 직무 |
 |---|---|
-| `Architecture/Software-Architect` | Software Architect |
-| `Architecture/Solution-Architect` | Solution Architect |
-| `Architecture/CTO` | CTO / Technical Executive |
+| `Architecture/Software-Architect` | [Software Architect](Architecture/Software-Architect) |
+| `Architecture/Solution-Architect` | [Solution Architect](Architecture/Solution-Architect) |
+| `Architecture/CTO` | [CTO / Technical Executive](Architecture/CTO) |
 
 ### 📌 Other
 | 폴더 | 직무 |
 |---|---|
-| `Other/Technical-Writer` | Technical Writer |
-| `Other/Product-Manager` | Product Manager |
-| `Other/Scrum-Master` | Scrum Master |
-| `Other/Technical-PM` | Technical PM |
+| `Other/Technical-Writer` | [Technical Writer](Other/Technical-Writer) |
+| `Other/Product-Manager` | [Product Manager](Other/Product-Manager) |
+| `Other/Scrum-Master` | [Scrum Master](Other/Scrum-Master) |
+| `Other/Technical-PM` | [Technical PM](Other/Technical-PM) |
 
 ---
 
